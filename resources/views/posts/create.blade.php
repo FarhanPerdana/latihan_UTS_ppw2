@@ -65,7 +65,6 @@
 
     @stack('styles')
     
-@endsection
 
 <style>
     .search-bar {
